@@ -1,0 +1,5 @@
+name: MOFUReplant
+version: ${project.version}
+main: com.yiorno.mofureplant.MOFUReplant
+api-version: 1.16
+authors: [ yossy_zip ]
